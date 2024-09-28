@@ -2,13 +2,13 @@
 
 - Alfa [  ]
 - Bravo [  ]
-- Charlie [  ]
+- Charlie [ X ]
 - Delta [  ]
 - Echo [  ]
  
 ## Tecnología
 
-- HTML [  ]
+- HTML [ x ]
 - Json [  ]
 - Archivo plano (.txt) [  ]
 - Javascript [  ]
@@ -16,7 +16,7 @@
  
 ## Seleccione el tipo de actividad
 
-- Feature [  ]
+- Feature [ x ]
 - Changes [  ]
 - Hotfix [  ]
 - Refactor [  ]
